@@ -1,6 +1,6 @@
 const words = 'cupboard pillow coffee bed spoon blanket knife stove sink pot dish fridge sofa stool cup fork glass pen computer notebook desk pencil bookcase'.split(' ');
 const wordsCount = words.length;
-let gameTime = 5 * 1000;
+let gameTime = 15 * 1000;
 window.timer = null;
 window.gameStart = null;
 window.pauseTime = 0;
